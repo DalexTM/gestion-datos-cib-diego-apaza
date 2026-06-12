@@ -18,4 +18,4 @@ Gold: datos listos para análisis.
 
 1. ¿Cuál es el revenue mensual?
 2. ¿Qué categorías venden más?
-3. ¿Qué estados tienen mayores demoras?
+3. ¿Qué estados tienen mayores demoras constantes?
